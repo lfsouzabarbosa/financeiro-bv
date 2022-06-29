@@ -621,7 +621,7 @@ section.why-us {
 /* Coming Soon */
 
 section.coming-soon {
-    background-image: url(../images/coming-soon-bg.jpg);
+    background-image: url(../images/terceira-pagina-mulher-apontando-pra-cima-feliz.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #172238;
@@ -634,7 +634,7 @@ section.coming-soon .continer .counter div {
 section.coming-soon .continer h4 {
     margin-top: 100px;
     font-size: 30px;
-    color: #fff;
+    color: #5775d0;
     font-weight: 800;
     letter-spacing: 0.5px;
     line-height: 40px;
@@ -642,7 +642,7 @@ section.coming-soon .continer h4 {
 }
 section.coming-soon .continer h4 em {
     font-style: normal;
-    color: #f5a425;
+    color: #5ccbe1;
 }
 
 @media screen and (max-width: 767px) {
@@ -705,7 +705,7 @@ section.coming-soon .continer .counter .seconds .value {
 section.coming-soon .continer .counter span {
     font-size: 18px;
     text-transform: uppercase;
-    color: #f5a425;
+    color: #5775d0;
     font-weight: 500;
     letter-spacing: 1px;
     margin-top: 0px;
@@ -777,7 +777,7 @@ section.coming-soon form input::placeholder { color: #fff; }
 
 section.coming-soon form button {
     margin-top: 10px;
-    background-color: #f5a425;
+    background-color: #5ccbe1;
     color: #fff;
     font-size: 13px;
     text-transform: uppercase;
