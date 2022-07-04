@@ -490,7 +490,6 @@ section.features .col-4 {
 /* Why Choosing Us */
 
 section.why-us {
-    background-image: url(../images/choosing-bg.jpg);
     background-color: #172238;
     background-repeat: no-repeat;
     background-size: cover;
@@ -885,7 +884,6 @@ section.courses .owl-carousel button.active {
 /* Video */
 
 section.video {
-    background-image: url(../images/video-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #172238;
@@ -1513,7 +1511,7 @@ section.contact form textarea::placeholder { color: #fff; }
 section.contact form textarea::placeholder { color: #fff; }
 
 section.contact form button {
-    background-color: #f5a425;
+    background-color: #5ccbe1;
     color: #fff;
     font-size: 13px;
     text-transform: uppercase;
